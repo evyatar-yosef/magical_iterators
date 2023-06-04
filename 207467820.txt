@@ -1,0 +1,3 @@
+https://github.com/evyatar-yosef/magical_iterators.git
+505fae5
+207467820
